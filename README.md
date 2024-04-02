@@ -12,21 +12,21 @@ Welcome to Gita-for-Life, your ultimate online resource for exploring the profou
 
 ### Mobile Device
 
-<img src="./src/assets/screenshots/mobile_ss_1.png" height='500px'>
+<img src="./src/assets/Screenshots/mobile_ss_1.png" height='500px'>
 
-<img src="./src/assets/screenshots/mobile_ss_2.png" height='500px'>
+<img src="./src/assets/Screenshots/mobile_ss_2.png" height='500px'>
 
-<img src="./src/assets/screenshots/mobile_ss_3.png" height='500px'>
+<img src="./src/assets/Screenshots/mobile_ss_3.png" height='500px'>
 
 ### Laptop Device
 
-<img src="./src/assets/screenshots/desktop_ss_1.png" height='200px'>
+<img src="./src/assets/Screenshots/desktop_ss_1.png" height='200px'>
 
-<img src="./src/assets/screenshots/desktop_ss_2.png" height='200px'>
+<img src="./src/assets/Screenshots/desktop_ss_2.png" height='200px'>
 
-<img src="./src/assets/screenshots/desktop_ss_3.png" height='200px'>
+<img src="./src/assets/Screenshots/desktop_ss_3.png" height='200px'>
 
-<img src="./src/assets/screenshots/desktop_ss_4.png" height='200px'>
+<img src="./src/assets/Screenshots/desktop_ss_4.png" height='200px'>
 
 ## Tech/ Framework Used
 
