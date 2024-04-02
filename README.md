@@ -33,6 +33,7 @@ Welcome to Gita-for-Life, your ultimate online resource for exploring the profou
 - React
 - TypeScript
 - Axios
+- Router
 - React-Bootstrap
 - Bootstrap
 - Bhagwad Gita API
